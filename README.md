@@ -1,7 +1,9 @@
 To begin, clone the repository to your local machine. Then create a new virtual environment with:
 ```
 conda create -n gw_analysis
+conda activate gw_analysis
 pip install gwpy pycbc lalsuite
+conda install jupyter
 ```
 
 Then launch the jupyter notebook and proceed through the examples and exercises.
