@@ -10,6 +10,7 @@ Then launch the jupyter notebook and proceed through the examples and exercises.
 
 There is redundant API between some of the packages, meaning that there is more than one way to complete
 many of the same tasks. However, we will only be focusing on 3 of the most commonly used GW software packages:
+
 [Link to gwosc](https://github.com/gwpy/gwosc "gwosc")
 [Link to Gwpy](https://gwpy.github.io/docs/stable/index.html "GWpy")
 [Link to PyCBC](https://pycbc.org/ "PyCBC")
