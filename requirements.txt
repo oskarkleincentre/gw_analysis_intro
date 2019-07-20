@@ -30,7 +30,7 @@ dynesty==0.9.5.3
 emcee==2.2.1
 entrypoints==0.3
 enum34==1.1.6
-Flask==0.12.4
+Flask==1.0
 Flask-Cache==0.13.1
 Flask-SQLAlchemy==2.4.0
 funcsigs==1.0.2
