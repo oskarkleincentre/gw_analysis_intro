@@ -18,7 +18,7 @@ Click==7.0
 configobj==5.0.6
 configparser==3.7.3
 corner==2.0.1
-cryptography==2.6.1
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.7
 decorator==4.4.0
